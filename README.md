@@ -29,9 +29,9 @@ I'm **Ben**, a Senior Red Team Expert & Trainer at Check Point Software Technolo
 
 ## 📚 Publications
 
-- **Bypassing Cortex XDR - A Case Study in the Power of Simplicity**  
+- [Bypassing Cortex XDR](https://medium.com/@BenTamam/bypassing-cortex-xdr)
   *Published on Medium - Dec 14, 2022*  
-  Explores bypass techniques for advanced EDR systems like Cortex XDR, showcasing case studies on simplicity and efficacy. [Read here](https://medium.com/@BenTamam/bypassing-cortex-xdr)
+  
 
 ## 📊 GitHub Stats
 
