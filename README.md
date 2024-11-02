@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**BenTamam/BenTamam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Ben**, a Senior Red Team Expert & Trainer at Check Point Software Technologies Ltd, here’s a quick overview of what I do and some of my notable achievements.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Specialized in:** Penetration Testing, Red Team Operations, and Cybersecurity Training
+- **Currently working at:** Check Point Software Technologies Ltd.
+- **How to reach me:** [LinkedIn](https://www.linkedin.com/in/bentamam) | [Medium Blog](https://medium.com/@BenTamam)
+
+## 🎓 Certifications
+
+- **Microsoft Cloud Red Team Professional (MCRTP)** - Pwned Labs, Oct 2024
+- **Offensive Security Experienced Penetration Tester (OSEP)** - OffSec, Nov 2022
+- **Web Application Penetration Testing Extreme (eWPTXv2)** - INE, Jan 2022
+- **Certified Red Team Professional (CRTP)** - Pentester Academy, Aug 2021
+- **eLearnSecurity Web Application Penetration Tester (eWPT)** - INE, Oct 2020
+- **Offensive Security Wireless Professional (OSWP)** - OffSec, Jun 2020
+- **Offensive Security Certified Professional (OSCP)** - OffSec, Apr 2020
+- **Cisco Certified Network Associate Routing and Switching (CCNA)** - Cisco
+- **Certification Profiles:**  [Credly Profile](https://www.credly.com/users/ben-tamam) & [Credential Wallet](https://www.credential.net/profile/bentamam737968/wallet)
+
+## 📊 Skills
+
+- **Penetration Testing**: Expertise in simulating real-world attacks to identify and mitigate vulnerabilities.
+- **Application Security**: Securing web, thick and mobile applications against various threats.
+- **Red Team Operations**: Planning and executing adversarial attack simulations for advanced threat detection.
+- **Cloud Security**: Specialized in AWS and Azure security, identifying misconfigurations and vulnerabilities.
+
+## 📚 Publications
+
+- **Bypassing Cortex XDR - A Case Study in the Power of Simplicity**  
+  *Published on Medium - Dec 14, 2022*  
+  Explores bypass techniques for advanced EDR systems like Cortex XDR, showcasing case studies on simplicity and efficacy. [Read here](https://medium.com/@BenTamam/bypassing-cortex-xdr)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BenTamam&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenTamam&layout=compact&theme=radical)
+
+
+## 🤝 Let's Connect!
+
+- **LinkedIn:** [Ben Tamam](https://www.linkedin.com/in/bentamam)
+- **Medium Blog:** [Ben's Security Insights](https://medium.com/@BenTamam)
