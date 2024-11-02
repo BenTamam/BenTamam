@@ -2,7 +2,7 @@
 
 I'm **Ben**, a Senior Red Team Expert & Trainer at Check Point Software Technologies Ltd, here’s a quick overview of what I do and some of my notable achievements.
 
-## 🚀 About Me
+## 🕵️‍♂️ About Me
 
 - **Specialized in:** Penetration Testing, Red Team Operations, and Cybersecurity Training
 - **Currently working at:** Check Point Software Technologies Ltd.
